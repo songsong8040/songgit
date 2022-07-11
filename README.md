@@ -45,3 +45,5 @@
   * 문의글 목록
   * FAQ 목록, 등록, 수정, 삭제
   
+## 시연 영상
+https://www.youtube.com/watch?v=uyyfH2zkYO8
